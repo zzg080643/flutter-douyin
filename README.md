@@ -1,16 +1,16 @@
 # douyin
 
-A new Flutter application.
+Flutter 抖音
 
-## Getting Started
+学习之作。
 
-This project is a starting point for a Flutter application.
+欢迎页：
+![image](https://github.com/zzg080643/flutter-douyin/blob/master/assets/pic/1.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+首页：
+![image](https://github.com/zzg080643/flutter-douyin/blob/master/assets/pic/2.jpg)
+![image](https://github.com/zzg080643/flutter-douyin/blob/master/assets/pic/3.jpg)
+![image](https://github.com/zzg080643/flutter-douyin/blob/master/assets/pic/4.jpg)
+![image](https://github.com/zzg080643/flutter-douyin/blob/master/assets/pic/5.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+接下来会慢慢继续完善
